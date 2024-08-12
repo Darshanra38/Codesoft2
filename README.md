@@ -1,4 +1,7 @@
-# Codesoft1
+# Codesoft
+complete task using c++
+Task 1
+Number Guessing 
 Task 2
 Devlope a calculator program that perform basic arithematic operation such as addition substraction Multiplication and division    
 #Task 3
